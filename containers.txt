@@ -1,0 +1,2 @@
+https://docs.microsoft.com/en-us/dotnet/core/docker/build-container
+https://msdn.microsoft.com/en-us/magazine/mt833405
